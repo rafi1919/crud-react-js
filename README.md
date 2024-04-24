@@ -1,4 +1,5 @@
-# React + Vite
+# React + Tailwind
+Basic react crud redux and jwt login with clean architecture for starting a project
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 

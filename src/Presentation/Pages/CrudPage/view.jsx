@@ -45,7 +45,7 @@ const CrudView = () => {
             />
             <button type="submit">Add Todo</button>
           </form>
-          <div className="p-4 grid grid-cols-4 gap-4">
+          <div className="p-4 grid grid-cols-3 gap-4">
             {todos.map((todo) => (
               <div key={todo.id} className="w-full h-[200px] rounded-md bg-white">
                 <div className="flex items-center justify-center h-[50px] border-b-2">

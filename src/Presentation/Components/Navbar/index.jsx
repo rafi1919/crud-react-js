@@ -4,7 +4,7 @@ import { useLocation } from 'react-router-dom';
 const NavbarProps = [
     {
         name: 'count',
-        link: '/'
+        link: '/counter'
     },
     {
         name: 'crud',
